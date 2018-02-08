@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#005a70</color>
+    <color name="colorPrimaryDark">#003d4d</color>
+    <color name="colorAccent">#007ea3</color>
+
+    <color name="activity_main_linearlayout_highlighttype_inactive">#fff</color>
+    <color name="activity_main_linearlayout_highlighttype_active">#e6e6e6</color>
+    <color name="views_inactive_text_color">#999999</color>
+    <color name="view_white">#fff</color>
+
+    <color name="textHighlightColor">#cce6ff</color>
+</resources>
